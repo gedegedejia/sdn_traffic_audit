@@ -1,0 +1,20 @@
+{
+  "name": "ryu-controller-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.10.1",
+    "axios": "^1.6.2",
+    "chart.js": "^4.5.0",
+    "nuxt": "^3.9.0"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest"
+  }
+}
