@@ -8,6 +8,11 @@ ysx@ubuntu:~/ryu/ryu/app$ ryu-manager --verbose ofctl_rest.py rest_topology.py t
 ysx@ubuntu:~/ryu/ryu/app/ryu_project$ sudo python3 topo.py
 ```
 ---
+
+## 🎥 演示视频
+[点击观看或下载演示视频](https://github.com/gedegedejia/sdn_traffic_audit/releases/download/v1.0.0-beta/demo.mp4)
+
+---
 #### 拓扑测试
 启动```topo.py```后，可以在```mininet```运行以下命令测试服务器情况：
 

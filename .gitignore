@@ -1,2 +1,21 @@
+# Nuxt.js 3 特定忽略
+.nuxt/
+.output/
+dist/
+.nitro/
+.cache/
+node_modules/
+*.log
+*.map
+
+# 通用忽略
+.DS_Store
+*.local
+*.env
+*.env.*
+
+# 压缩文件
 *.tar.zst
-*.tar.zst
+
+# 视频文件
+*.mp4
